@@ -37,4 +37,6 @@ str = "i am studing python"
 #str.repalce(old, new)____replace all occurences of old value to new value
 
 
+# print(str.replace("studing", "Antik"))
+
 
