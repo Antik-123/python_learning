@@ -42,3 +42,15 @@ str = "i am studing python"
 #str.find(word) retrun  1st index of 1st occurences 
 
 # print(str.find("o"))
+
+#str.count("am") counts the occurence of substr
+
+
+# print(str.count("studing"))
+
+
+# name = input("enter your name : ")
+
+# print("length of your name is : ", len(name))
+
+
