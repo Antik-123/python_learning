@@ -39,4 +39,6 @@ str = "i am studing python"
 
 # print(str.replace("studing", "Antik"))
 
+#str.find(word) retrun  1st index of 1st occurences 
 
+# print(str.find("o"))
